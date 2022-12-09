@@ -1,35 +1,6 @@
-.navbar ul li{
-    text-decoration: none;
-    list-style: none;
-    display: inline-block;
-    font-family: calibri;
-    margin: 20px;
-    align: 20px;
+body{
+    color : red;
 }
-.navbar ul li a {
-    background-color: blueviolet;
-    text-decoration: none;
-    color: black;
-}
-.oke{
-    background-color: blueviolet;
-}
-.y{
-    font-weight: bolder;
-    font-size: 40px;
-}
-.navbar ul li a:hover{
-    color: aliceblue;
-    transition: 0,3s;
-}
-.i{
-    font: 15px;
-}
-.o{
-    font-weight: bolder;
-    font-size: 20px;
-}
-.wo{
-    font-weight: bolder;
-    font-size: 10px ;
+table{
+    color : blue;
 }
